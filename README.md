@@ -1,7 +1,8 @@
-# Hackerrank-Java-Solutions
 # ☕ HackerRank Java Solutions
 
 <div align="center">
+
+<img src="./assets/hackerrank-logo.png" width="420" alt="HackerRank Logo">
 
 ### Java Programming & DSA Practice
 
@@ -52,13 +53,14 @@ The repository will gradually cover problems related to:
 
 ## 📂 Repository Structure
 
-Each HackerRank problem is organized in its own folder.
-
 ```text
 HackerRank-Java-Solutions/
 │
 ├── README.md
 ├── .gitignore
+│
+├── assets/
+│   └── hackerrank-logo.png
 │
 ├── 01-java-hello-world/
 │   └── Solution.java
