@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="./assets/hackerrank-logo.png" width="420" alt="HackerRank Logo">
+<img src="./hackerrank-logo.png" width="420" alt="HackerRank Logo">
+
+
 
 ### Java Programming & DSA Practice
 
