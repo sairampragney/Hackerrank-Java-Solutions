@@ -53,6 +53,8 @@ The repository will gradually cover problems related to:
 
 ## 📂 Repository Structure
 
+Each HackerRank problem is organized in its own folder.
+
 ```text
 HackerRank-Java-Solutions/
 │
