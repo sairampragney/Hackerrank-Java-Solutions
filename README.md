@@ -11,31 +11,25 @@
 
 A structured collection of my **Java solutions to HackerRank programming challenges**, focused on strengthening problem-solving, algorithmic thinking, and foundational Data Structures and Algorithms skills.
 
-<br>
-
-![Java](https://img.shields.io/badge/Java-17-orange?style=flat-square&logo=openjdk&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-Practice-00EA64?style=flat-square&logo=hackerrank&logoColor=black)
-![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=flat-square)
-
 </div>
 
 ---
 
-## 📌 About This Repository
+## About This Repository
 
 This repository contains my solutions to programming challenges from **HackerRank**, written in Java.
 
-I am using HackerRank to practice Java programming, improve my problem-solving skills, and build a strong foundation in **Data Structures and Algorithms**.
+I am using HackerRank to practice Java programming, improve my problem-solving abilities, and build a strong foundation in **Data Structures and Algorithms**.
 
-Each problem is organized in a separate folder to keep the repository structured and easy to navigate.
+Each challenge is organized in its own folder to keep the repository structured, readable, and easy to navigate.
 
 This repository represents my **ongoing learning and practice**, with new solutions being added as I progress.
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 
-The repository will gradually cover problems related to:
+The repository will gradually cover:
 
 - Java Fundamentals
 - Input and Output
@@ -54,16 +48,15 @@ The repository will gradually cover problems related to:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
-Each HackerRank problem is organized in its own folder.
+Each HackerRank challenge is organized in a separate folder.
 
 ```text
 HackerRank-Java-Solutions/
 │
 ├── README.md
 ├── .gitignore
-├── hackerrank-logo.png
 │
 ├── 01-java-hello-world/
 │   └── Solution.java
