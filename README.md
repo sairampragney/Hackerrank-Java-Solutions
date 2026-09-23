@@ -12,6 +12,9 @@
 
 A structured collection of my **Java solutions to HackerRank programming challenges**, focused on strengthening problem-solving, algorithmic thinking, and foundational Data Structures and Algorithms skills.
 
+<h1 align="center">⭐⭐☆</h1>
+<p align="center"><b>HackerRank Java Badge: 2 of 5 stars</b> · 3rd star in progress</p>
+
 [![HackerRank](https://img.shields.io/badge/HackerRank-Java_⭐⭐-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/YOUR_USERNAME)
 ![Language](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In_Progress-blue?style=for-the-badge)
